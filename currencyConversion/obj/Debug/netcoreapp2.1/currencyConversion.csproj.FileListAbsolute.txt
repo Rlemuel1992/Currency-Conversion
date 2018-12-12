@@ -1,0 +1,11 @@
+C:\Users\Ronad\source\repos\currencyConversion\currencyConversion\bin\Debug\netcoreapp2.1\currencyConversion.deps.json
+C:\Users\Ronad\source\repos\currencyConversion\currencyConversion\bin\Debug\netcoreapp2.1\currencyConversion.runtimeconfig.json
+C:\Users\Ronad\source\repos\currencyConversion\currencyConversion\bin\Debug\netcoreapp2.1\currencyConversion.runtimeconfig.dev.json
+C:\Users\Ronad\source\repos\currencyConversion\currencyConversion\bin\Debug\netcoreapp2.1\currencyConversion.dll
+C:\Users\Ronad\source\repos\currencyConversion\currencyConversion\bin\Debug\netcoreapp2.1\currencyConversion.pdb
+C:\Users\Ronad\source\repos\currencyConversion\currencyConversion\obj\Debug\netcoreapp2.1\currencyConversion.csprojAssemblyReference.cache
+C:\Users\Ronad\source\repos\currencyConversion\currencyConversion\obj\Debug\netcoreapp2.1\currencyConversion.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\currencyConversion\currencyConversion\obj\Debug\netcoreapp2.1\currencyConversion.AssemblyInfoInputs.cache
+C:\Users\Ronad\source\repos\currencyConversion\currencyConversion\obj\Debug\netcoreapp2.1\currencyConversion.AssemblyInfo.cs
+C:\Users\Ronad\source\repos\currencyConversion\currencyConversion\obj\Debug\netcoreapp2.1\currencyConversion.dll
+C:\Users\Ronad\source\repos\currencyConversion\currencyConversion\obj\Debug\netcoreapp2.1\currencyConversion.pdb
